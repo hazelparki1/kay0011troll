@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPD/DwAAAAAAT0T0AAAAAM/8/////wDw3c3wRET9AP+9+09E9PvwRERET0T0+09ERERE9L/9T9Td3URE1P1P/d/d/fT//E/d3dz99L/9T93dzf1P1P3w/U/N/fD/DwDfTc39AAAAAPDfzQ8AAAAAAPD/AAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "monke"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
